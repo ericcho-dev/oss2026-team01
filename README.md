@@ -6,7 +6,7 @@
 | --- | --- |
 | @central324 | 화면 구성 |
 | @ericcho-dev | 화면 구성 |
-| @dlxogml123 | 테스트 |
+| @dlxogml123 | C가 정함 |
 
 ## 규칙
 
