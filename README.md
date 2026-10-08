@@ -4,8 +4,3 @@
 
 | Github | 맡은 일 |
 | --- | --- |
-
-
-
-
-test: direct push
