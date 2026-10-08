@@ -5,3 +5,5 @@
 | Github | 맡은 일 |
 | --- | --- |
 | @central324 | 화면 구성 |
+| @ericcho-dev | 화면 구성 |
+
